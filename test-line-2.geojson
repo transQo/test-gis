@@ -1,0 +1,14 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [101.0, -1.0],
+      [102.0,  0.0],
+      [103.0,  1.0],
+      [104.0,  0.0],
+      [120.0, -1.0]
+    ]
+  },
+  "properties": { "name": "示例线-延长版" }
+}
