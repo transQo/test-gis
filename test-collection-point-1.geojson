@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.0, 0.5]
+      },
+      "properties": { "name": "示例点", "value": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1112.0, 0.5]
+      },
+      "properties": { "name": "示例点2", "value": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.0, 0.5]
+      },
+      "properties": { "name": "示例点3", "value": 1 }
+    }
+  ]
+}
