@@ -13,7 +13,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [1112.0, 0.5]
+        "coordinates": [112.0, 0.5]
       },
       "properties": { "name": "示例点2", "value": 1 }
     },
